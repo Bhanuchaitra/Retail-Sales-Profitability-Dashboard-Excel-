@@ -1,4 +1,4 @@
-# Retail Sales & Profitability Dashboard Using Microsoft Excel
+# Retail Sales & Profitability Dashboard Using  Excel
 
 ## 📌 Project Overview
 
