@@ -144,5 +144,5 @@ GitHub: [Bhanuchaitra](https://github.com/Bhanuchaitra)
 
 ---
 
-*This project is a work in progress. Formulas, visualisations, findings, and recommendations will be updated as the analysis is completed.*
+
 
