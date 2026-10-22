@@ -93,7 +93,7 @@ The dataset includes:
 
 Additional worksheets provide product costs, list prices, and regional targets.
 
-**Note:** The dataset is synthetic and created for educational purposes. It does not contain real customer transaction records.
+
 
 ## 📈 Dashboard Features
 
